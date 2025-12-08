@@ -54,7 +54,8 @@ We use a Microsoft Teams method to deliver the online sessions.
 
 | Title | Description | Date | Time | Number of sessions | Registration link |
 |-------|-------------|------|------|:------------------:|-------------------|
-| NVIDIA DLI - Fundamentals of Accelerated Computing with CUDA Python | Experience using GPUs within Python using latest Nvidia training material | Thu 27th November 2025 & Fri 28th November 2025  | 9:00 am – 1:00 pm | 2 | [Link](https://events.teams.microsoft.com/event/9c82c992-82a5-441c-9b99-817449cdfe00@bdb74b30-9568-4856-bdbf-06759778fcbc) |
+| NVIDIA DLI - Fundamentals of Accelerated Computing with CUDA Python | Experience using GPUs within Python using latest Nvidia training material                                                                    | Thu 27th November 2025 & Fri 28th November 2025  | 9:00 am – 1:00 pm | 2 | [Link](https://events.teams.microsoft.com/event/9c82c992-82a5-441c-9b99-817449cdfe00@bdb74b30-9568-4856-bdbf-06759778fcbc) |
+| Data Carpentry (**Onsite**)                                         | Data Carpentry workshops will focus on introductory computational skills needed for data management and analysis in all domains of research. | Thu 22nd January 2025 & Fri 23rd January 2025    | 9:30 am - 5:00 pm | 2 | [Link](https://www.archer2.ac.uk/training/courses/260122-data-carpentry/) |
 
 If you have any issues with the above registration methods please email [arcca@cardiff.ac.uk](mailto:arcca@cardiff.ac.uk).
 
