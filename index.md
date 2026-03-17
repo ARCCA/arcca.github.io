@@ -38,24 +38,27 @@ We use a Microsoft Teams method to deliver the online sessions.
 
 | Title | Description | Date | Time | Number of sessions | Registration link |
 |-------|-------------|------|------|:------------------:|-------------------|
-| *Advanced Research Computing at Cardiff University*         | Presentation on what Advanced Research Computing can provide including demonstration of Open OnDemand. | Thu  2nd October 2025  | 1:00 pm – 3:00 pm | 1 | [Link](https://events.teams.microsoft.com/event/743aa91b-4d1d-4288-a36b-62d247af4470@bdb74b30-9568-4856-bdbf-06759778fcbc) |
-| *An Introduction to Linux with Command Line (& Windows)*    | Learn how to use the Linux command line.                                                               | Thu  9th October 2025  | 1:00 pm – 5:00 pm | 1 | [Link](https://events.teams.microsoft.com/event/0b1b86a3-a3b5-45b4-a870-a4829eacadb0@bdb74b30-9568-4856-bdbf-06759778fcbc) |
-| *An Introduction to Linux Shell Scripting*                  | Further your knowledge with Linux shell scripting.                                                     | Thu 16th October 2025  | 1:00 pm – 5:00 pm | 1 | [Link](https://events.teams.microsoft.com/event/e86ca26c-f4e6-4c82-894b-28d52ca1a831@bdb74b30-9568-4856-bdbf-06759778fcbc) |
-| *Supercomputing for Beginners*                              | Learn to run jobs on the University supercomputer.                                                     | Thu 23rd October 2025  | 1:00 pm – 5:00 pm | 1 | [Link](https://events.teams.microsoft.com/event/85024827-98eb-407d-b706-295358f202fd@bdb74b30-9568-4856-bdbf-06759778fcbc) |
-| *Slurm – Advanced Topics*                                   | Find out further information on using Slurm and the supercomputer.                                     | Wed  5th November 2025 | 1:00 pm – 5:00 pm | 1 | [Link](https://events.teams.microsoft.com/event/f38570f6-0333-48da-a35d-9816ff07fec6@bdb74b30-9568-4856-bdbf-06759778fcbc) |
-| *Introduction to Python*                                    | Learn to use Python and migrate your code to our supercomputer.                                        | Thu 13th November 2025 | 1:00 pm – 5:00 pm | 1 | [Link](https://events.teams.microsoft.com/event/0ba13dec-ce1e-4af0-af9e-73fe5c53fa52@bdb74b30-9568-4856-bdbf-06759778fcbc) |
-| *Advanced Python*                                           | Learn additional tools to improve your Python scripts                                                  | Thu 20th November 2025 | 1:00 pm – 5:00 pm | 1 | [Link](https://events.teams.microsoft.com/event/05de52ce-7581-4393-bedc-bd6aafba2483@bdb74b30-9568-4856-bdbf-06759778fcbc) |
-| *Introduction to Machine Learning Applications*             | Find out how to run machine learning applications on the supercomputer.                                | Tue  2nd December 2025 | 1:00 pm – 5:00 pm | 1 | [Link](https://events.teams.microsoft.com/event/ac82b1ba-1465-4d40-a462-03e80bef8bd2@bdb74b30-9568-4856-bdbf-06759778fcbc) |
-| *Introduction to Parallel Programming using OpenMP and MPI* | Learn to use OpenMP and MPI to parallelise your code.                                                  | Wed 10th December 2025 | 1:00 pm – 5:00 pm | 1 | [Link](https://events.teams.microsoft.com/event/c9448c53-8050-469f-b438-b28599824e84@bdb74b30-9568-4856-bdbf-06759778fcbc) |
-| *Introduction to containers and Singularity*                | Discover how containers can help your workflow. | TBA | TBA | TBC | Link TBA |
-| *Introduction to workflow tool NextFlow*                    | Find out how to manage workflows within a the NextFlow framework. | TBA | TBA | TBC | Link TBA |
+| *Advanced Research Computing at Cardiff University*         | Presentation on what Advanced Research Computing can provide including demonstration of Open OnDemand. | Thu 16th April 2026    | 1:00 pm – 3:00 pm | 1 | Link TBA |
+| *An Introduction to Linux with Command Line (& Windows)*    | Learn how to use the Linux command line.                                                               | Thu 23rd April 2026    | 1:00 pm – 5:00 pm | 1 | Link TBA |
+| *An Introduction to Linux Shell Scripting*                  | Further your knowledge with Linux shell scripting.                                                     | Thu 30th April 2026    | 1:00 pm – 5:00 pm | 1 | Link TBA |
+| *Supercomputing for Beginners*                              | Learn to run jobs on the University supercomputer.                                                     | Thu 14th May 2026      | 1:00 pm – 5:00 pm | 1 | Link TBA |
+| *Slurm – Advanced Topics*                                   | Find out further information on using Slurm and the supercomputer.                                     | Postponed until Autumn season |  | 1 |  |
+| *Introduction to Python*                                    | Learn to use Python and migrate your code to our supercomputer.                                        | Postponed until Autumn season |  | 1 |  |
+| *Advanced Python*                                           | Learn additional tools to improve your Python scripts                                                  | Postponed until Autumn season |  | 1 |  |
+| *Introduction to Machine Learning Applications*             | Find out how to run machine learning applications on the supercomputer.                                | Postponed until Autumn season |  | 1 |  |
+| *Introduction to Parallel Programming using OpenMP and MPI* | Learn to use OpenMP and MPI to parallelise your code.                                                  | Postponed until Autumn season |  | 1 |  |
+| *Introduction to containers and Singularity*                | Discover how containers can help your workflow.                                                        | TBA | TBA | TBC | Link TBA |
+| *Introduction to workflow tool NextFlow*                    | Find out how to manage workflows within a the NextFlow framework.                                      | TBA | TBA | TBC | Link TBA |
 
+<!---
 **Special event**
 
 | Title | Description | Date | Time | Number of sessions | Registration link |
 |-------|-------------|------|------|:------------------:|-------------------|
 | NVIDIA DLI - Fundamentals of Accelerated Computing with CUDA Python | Experience using GPUs within Python using latest Nvidia training material                                                                    | Thu 27th November 2025 & Fri 28th November 2025  | 9:00 am – 1:00 pm | 2 | [Link](https://events.teams.microsoft.com/event/9c82c992-82a5-441c-9b99-817449cdfe00@bdb74b30-9568-4856-bdbf-06759778fcbc) |
 | Data Carpentry (**Onsite**)                                         | Data Carpentry workshops will focus on introductory computational skills needed for data management and analysis in all domains of research. | Thu 22nd January 2025 & Fri 23rd January 2025    | 9:30 am - 5:00 pm | 2 | [Link](https://www.archer2.ac.uk/training/courses/260122-data-carpentry/) |
+--->
+
 
 If you have any issues with the above registration methods please email [arcca@cardiff.ac.uk](mailto:arcca@cardiff.ac.uk).
 
