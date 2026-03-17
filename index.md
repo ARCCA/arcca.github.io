@@ -28,7 +28,7 @@ For users at Cardiff Unviersity we also have material at the [ARCCAHub](https://
 
 ## Register for future courses
 
-The timetable for Autumn 2025 is now available!
+The timetable for Spring 2026 is now available!
 
 To attend the ARCCA sessions please refer to details below. If you are a member of Cardiff University staff, completion of this course will be recorded on the HR System within 1 month of the course date. 
 
@@ -47,8 +47,8 @@ We use a Microsoft Teams method to deliver the online sessions.
 | *Advanced Python*                                           | Learn additional tools to improve your Python scripts                                                  | Postponed until Autumn season |  | 1 |  |
 | *Introduction to Machine Learning Applications*             | Find out how to run machine learning applications on the supercomputer.                                | Postponed until Autumn season |  | 1 |  |
 | *Introduction to Parallel Programming using OpenMP and MPI* | Learn to use OpenMP and MPI to parallelise your code.                                                  | Postponed until Autumn season |  | 1 |  |
-| *Introduction to containers and Singularity*                | Discover how containers can help your workflow.                                                        | TBA | TBA | TBC | Link TBA |
-| *Introduction to workflow tool NextFlow*                    | Find out how to manage workflows within a the NextFlow framework.                                      | TBA | TBA | TBC | Link TBA |
+| *Introduction to containers and Singularity*                | Discover how containers can help your workflow.                                                        | Available on request | TBC | TBC | Link TBC |
+| *Introduction to workflow tool NextFlow*                    | Find out how to manage workflows within a the NextFlow framework.                                      | Available on request | TBC | TBC | Link TBC |
 
 <!---
 **Special event**
