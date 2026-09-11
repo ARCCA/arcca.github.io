@@ -12,6 +12,8 @@ For weekly ARCCA surgeries please subscribe to the event at [ARCCA Surgery](http
 
 For users at Cardiff Unviersity we also have material at the [ARCCAHub](https://cf.sharepoint.com/teams/ARCCAHub) which is accessible for Cardiff University members and authorised users.
 
+Documentation about ARCCA services is available [here](https://wiki.arcca.cf.ac.uk/index.php/Main_Page) (Cardiff VPN required).
+
 ## Contents
 
 [Register for future courses](https://arcca.github.io/index.html#register-for-future-courses)
@@ -28,7 +30,7 @@ For users at Cardiff Unviersity we also have material at the [ARCCAHub](https://
 
 ## Register for future courses
 
-The timetable for Spring 2026 is now available!
+The timetable for Autumn 2026 is now available!
 
 To attend the ARCCA sessions please refer to details below. If you are a member of Cardiff University staff, completion of this course will be recorded on the HR System within 1 month of the course date. 
 
